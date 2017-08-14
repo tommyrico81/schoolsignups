@@ -3,7 +3,7 @@ include HeaderScript.php;
 ?>
 <body>
 
-This is a test....
+This is a test.....
 
 </body>
 <?php
