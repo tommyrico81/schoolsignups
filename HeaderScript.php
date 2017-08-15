@@ -5,5 +5,4 @@
             </head>
             <title>SchoolSignUps
             </title>';
-            EndHeaderScript
 ?>
