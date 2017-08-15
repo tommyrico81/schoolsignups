@@ -1,5 +1,5 @@
 <?php
-include '/opt/app-root/src/HeaderScript.php';
+include '/HeaderScript.php';
 ?>
 <body>
 
@@ -7,5 +7,5 @@ This is a test.....
 
 </body>
 <?php
-include '/opt/app-root/src/FooterScript.php';
+include '/FooterScript.php';
 ?>
