@@ -1,10 +1,12 @@
 <?php
 
-echo '<body>';
-echo '<button type="button">Add Child</button><br>';
-echo '<button type="button">View Entries</button><br>';
-echo '<button type="button">Notifications</button><br>';
-echo '<button type="button">Lottery Selection</button><br>';
-echo '</body>';
+echo '
+        <body>   
+        <button type="button">Add Child</button><br>
+        <button type="button">View Entries</button><br>
+        <button type="button">Notifications</button><br>
+        <button type="button">Lottery Selection</button><br>
+        </body>
+        ';
 
 ?>
