@@ -1,9 +1,9 @@
 <?php
-include '/opt/app-root/src/HeaderScript.php';
+include 'HeaderScript.php';
 ?>
 <?php
-include '/opt/app-root/src/BodyScript.php';
+include 'BodyScript.php';
 ?>
 <?php
-include '/opt/app-root/src/FooterScript.php';
+include 'FooterScript.php';
 ?>
