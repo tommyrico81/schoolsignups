@@ -1,9 +1,9 @@
 <?php
-include 'HeaderScript.php';
+include ("HeaderScript.php");
 ?>
 <?php
-include 'BodyScript.php';
+include ("BodyScript.php");
 ?>
 <?php
-include 'FooterScript.php';
+include ("FooterScript.php");
 ?>
