@@ -8,4 +8,4 @@ include ("BodyScript.php");
 include ("FooterScript.php");
 */?>
 
-This is a test
+This is a test..
