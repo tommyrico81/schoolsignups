@@ -1,12 +1,12 @@
 <?php
 
-echo '
+echo "
 <html>
 <head>
 
 </head>
 <title>SchoolSignUps
 </title>
-';
+";
 
 ?>
