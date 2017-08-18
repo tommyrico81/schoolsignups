@@ -1,7 +1,8 @@
 <?php
-    echo "
-            </html>
-            ";
+
+echo "
+</html>
+";
 
 ?>
 

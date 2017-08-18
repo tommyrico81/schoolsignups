@@ -1,9 +1,11 @@
 <?php
-    echo "
-            <html>
-            <head>
-            </head>
-            <title>SchoolSignUps
-            </title>
-            ";
+
+echo "
+<html>
+<head>
+</head>
+<title>SchoolSignUps
+</title>
+";
+
 ?>
